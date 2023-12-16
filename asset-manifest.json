@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/debt-calculator/static/css/main.f38a3276.css",
+    "main.js": "/debt-calculator/static/js/main.8debb73d.js",
+    "index.html": "/debt-calculator/index.html",
+    "main.f38a3276.css.map": "/debt-calculator/static/css/main.f38a3276.css.map",
+    "main.8debb73d.js.map": "/debt-calculator/static/js/main.8debb73d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.8debb73d.js"
+  ]
+}
